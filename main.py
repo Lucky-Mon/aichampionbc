@@ -125,6 +125,7 @@ with tab2:
 
 with tab3:
     st.header("📘 Methodology")
+    st.image("images/flowchart.png", caption="Document Processing Flow")
     st.markdown("""
     ## How It Works
 
